@@ -37,6 +37,3 @@ Another area for making this more applicable to other datasets would be to remov
 Adjusting the word counts could also prove interesting; perhaps an area to start would be with how accuracy is affected by a minimum article length.
 
 Finally, I would love to see if the model can perform with a similar accuracy on other mediums. As a starting point, it would be interesting if the headlines could be used for prediction. Eventually it could even be applied to Twitter!
-
-Final presentation:
-https://docs.google.com/presentation/d/1_HX7iP-qIrBTAO7aB8DBdLcbq0O_5wuqdBpOUN74tLs/edit?usp=sharing
